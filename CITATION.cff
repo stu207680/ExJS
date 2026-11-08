@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Please cite the associated paper when using these research materials."
+type: dataset
+title: "A-Posteriori Joint Schema Expansion for Empirical Research Knowledge in Computer Science — research materials"
+authors:
+  - family-names: Michalski
+    given-names: Patrik Thomas
+    orcid: "https://orcid.org/0009-0003-0284-408X"
+repository-code: "https://github.com/stu207680/ExJS"
+license: CC-BY-4.0
+preferred-citation:
+  type: conference-paper
+  title: "A-Posteriori Joint Schema Expansion for Empirical Research Knowledge in Computer Science"
+  authors:
+    - family-names: "Michalski"
+      given-names: "Patrik Thomas"
+    - family-names: "Britton"
+      given-names: "Maximilian"
+    - family-names: "Maldonado"
+      given-names: "Andrea"
+    - family-names: "Almohaishi"
+      given-names: "Moayad"
+    - family-names: "Karras"
+      given-names: "Oliver"
+    - family-names: "Koschmider"
+      given-names: "Agnes"
+  year: 2026
+  doi: "10.18420/inf2026_134"
+  collection-title: "INFORMATIK 2026 – Digitale Resilienz"
+  start: 1721
+  end: 1732
